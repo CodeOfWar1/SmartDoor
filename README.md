@@ -1,0 +1,2 @@
+# SmartDoor
+Mini School project 
